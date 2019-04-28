@@ -1,0 +1,35 @@
+/*.dat1:hover {
+
+    color: #0b23db;
+    text-decoration: blink;
+    transition: 1s;
+    transform: scale(1.1);
+}*/
+
+.dat2:hover {
+
+    background-color: #0b23db;
+    color: white;
+    text-decoration: none;
+    transition: 1s;
+    transform: scale(1.1);
+}
+
+.dat2{
+    color: #0b23db;
+    text-decoration: none;
+    background-color: white;
+    padding : 10px;
+    margin-right: 60px;
+    font-family: impact;
+}
+
+img:hover {
+
+transition: 1s;
+    transform: scale(1.1);
+}
+
+p,h3{
+	font-weight: bolder;
+}
